@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/c6830abd-dedb-493a-a4ba-e87cdb097874)
+[billionaires15_2024map.xlsx](https://github.com/user-attachments/files/19321201/billionaires15_2024map.xlsx)
 
 This Excel Dashboard provides a dynamic and visually analysisof the top 10 billionaires in 2024, including their nrt worth, company and Ranks etc.
 
