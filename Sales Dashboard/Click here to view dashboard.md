@@ -1,8 +1,4 @@
-https://github.com/Abiodun360of/GIF-image1/blob/main/billionaires15_2024map.xlsx-Excel2025-03-1806-48-03-ezgif.com-crop.gif
-![Sales Dashboard](https://raw.githubusercontent.com/your-username/your-repo/main/sales_dashboard.gif)
+![Sales Dashboard](https://raw.githubusercontent.com/Abiodun360of/EXCEL-REPO/main/Sales%20Dashboard/sales_data_2020_2024.xlsx-Excel2025-03-1401-36-14-ezgif.com-crop.gif)
 
-
-A dynamic and interactive Sales Dashboard built in excel to analyzetrends, and visualize performance. It includes interactive charts and KPIs. designed for clarity, efficiency, and ease of use
-
-[Download My Excel File](https://github.com/Abiodun360of/EXCEL-REPO/blob/main/Sales%20Dashboard/sales_data_2020_2024.xlsx)
-
+## 📥 Download the Sales Data Excel File
+[⬇ Click here to download](https://github.com/Abiodun360of/EXCEL-REPO/raw/main/Sales%20Dashboard/sales_data_2020_2024.xlsx)
