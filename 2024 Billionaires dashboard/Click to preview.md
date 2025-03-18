@@ -1,6 +1,9 @@
-![Billionaires Map](https://githubusercontent.com/Abiodun360of/GIF-image1/main/billionaires15_2024map.gif)
+![Billionaires Map](https://raw.githubusercontent.com/Abiodun360of/GIF-image1/main/billionaires15_2024map.gif)
 
+This interactive map visualizes billionaire distributions worldwide in 2024.
 
-[billionaires15_2024map.xlsx](https://github.com/user-attachments/files/19321201/billionaires15_2024map.xlsx)
+📊 **Download the dataset:**  
+[Download Billionaires Data](https://github.com/Abiodun360of/GIF-image1/blob/main/billionaires15_2024map.xlsx?raw=true)
+
 
 
