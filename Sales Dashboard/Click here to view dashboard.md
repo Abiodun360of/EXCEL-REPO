@@ -1,4 +1,6 @@
-(https://github.com/Abiodun360of/GIF-image1/blob/main/billionaires15_2024map.xlsx-Excel2025-03-1806-48-03-ezgif.com-crop.gif)
+https://github.com/Abiodun360of/GIF-image1/blob/main/billionaires15_2024map.xlsx-Excel2025-03-1806-48-03-ezgif.com-crop.gif
+![Sales Dashboard](https://raw.githubusercontent.com/your-username/your-repo/main/sales_dashboard.gif)
+
 
 A dynamic and interactive Sales Dashboard built in excel to analyzetrends, and visualize performance. It includes interactive charts and KPIs. designed for clarity, efficiency, and ease of use
 
