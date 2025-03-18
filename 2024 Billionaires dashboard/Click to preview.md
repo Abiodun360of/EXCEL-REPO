@@ -1,4 +1,5 @@
-https://github.com/Abiodun360of/GIF-image1/blob/main/billionaires15_2024map.xlsx-Excel2025-03-1806-48-03-ezgif.com-crop.gif
+![Billionaires Map](https://raw.githubusercontent.com/Abiodun360of/GIF-image1/main/billionaires15_2024map.gif)
+
 
 [billionaires15_2024map.xlsx](https://github.com/user-attachments/files/19321201/billionaires15_2024map.xlsx)
 
